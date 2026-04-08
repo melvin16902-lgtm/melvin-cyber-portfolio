@@ -34,3 +34,8 @@ Hands-on IT Support & Cybersecurity learner with practical experience in Linux, 
 - VirtualBox  
 - Ubuntu Linux  
 - Terminal  
+---
+
+### 📸 Proof
+
+![Linux Terminal](images/Screenshot_2026-04-08_02_46_18.png)
