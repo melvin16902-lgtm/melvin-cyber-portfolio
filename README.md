@@ -39,3 +39,5 @@ Hands-on IT Support & Cybersecurity learner with practical experience in Linux, 
 ### 📸 Proof
 
 ![Linux Terminal](images/Screenshot_2026-04-08_02_46_18.png)
+![Localhost Server](Screenshot_2026-04-08_03_06_20.png)
+![Localhost Server](Screenshot_2026-04-08_03_06_24.png)
