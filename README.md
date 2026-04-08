@@ -40,3 +40,4 @@ Hands-on IT Support & Cybersecurity learner with practical experience in Linux, 
 
 ![Linux Terminal](images/Screenshot_2026-04-08_02_46_18.png)
 ![Localhost Server](images/Screenshot_2026-04-08_03_06_24.png)
+![TryHackMe Practice](images/Screenshot 2026-04-08 125011.png)
